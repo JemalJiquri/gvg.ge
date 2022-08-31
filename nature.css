@@ -1,27 +1,10 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/Canadata-June-2022-mainweb.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 100vh;
-}
-
-.u-section-1 .u-rotation-parent-1 {
-  width: 69px;
-  height: 69px;
-  margin: 865px auto 0;
-}
-
-.u-section-1 .u-icon-1 {
-  width: 69px;
-  height: 69px;
-  padding: 0;
-}
-
-@media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
 }.u-section-2 .u-sheet-1 {
   min-height: 50vw;
 }
@@ -278,26 +261,26 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1137px;
+    min-height: 1138px;
   }
 
   .u-section-2 .u-image-1 {
     height: 180px;
-    margin-top: 392px;
+    margin-top: 418px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-2 .u-image-2 {
-    width: 240px;
-    height: 219px;
-    margin-top: -12px;
+    width: 284px;
+    height: 167px;
+    margin-top: -24px;
   }
 
   .u-section-2 .u-group-1 {
     min-height: 349px;
-    margin-top: -736px;
+    margin-top: -698px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -562,19 +545,19 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1295px;
+    min-height: 1284px;
   }
 
   .u-section-3 .u-shape-1 {
     width: 241px;
     height: 374px;
-    margin-top: 586px;
-    margin-left: 68px;
+    margin-top: 601px;
+    margin-left: 80px;
   }
 
   .u-section-3 .u-group-1 {
-    min-height: 566px;
-    margin-top: -941px;
+    min-height: 459px;
+    margin-top: -956px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -597,20 +580,20 @@
   }
 
   .u-section-3 .u-text-2 {
+    font-size: 0.875rem;
     margin-right: 18px;
   }
 
   .u-section-3 .u-image-1 {
     width: 227px;
-    margin-top: 374px;
+    margin-top: 441px;
   }
 
   .u-section-3 .u-image-2 {
     width: 232px;
     height: 354px;
     margin-top: -593px;
-    margin-right: 0;
-    margin-left: auto;
+    margin-left: 108px;
   }
 } .u-section-4 {
   min-height: 3040px;
@@ -634,6 +617,7 @@
 }
 
 .u-section-4 .u-text-2 {
+  font-size: 1.25rem;
   margin: 35px 162px 0;
 }
 
@@ -644,10 +628,12 @@
 }
 
 .u-section-4 .u-text-3 {
+  font-size: 1.25rem;
   margin: -278px calc(((100% - 1140px) / 2) + 38px) 0 calc(((100% - 1140px) / 2) + 439px);
 }
 
 .u-section-4 .u-text-4 {
+  font-size: 1.25rem;
   margin: 119px calc(((100% - 1140px) / 2) + 485px) 0 calc(((100% - 1140px) / 2));
 }
 
@@ -664,10 +650,12 @@
 }
 
 .u-section-4 .u-text-5 {
+  font-size: 1.25rem;
   margin: -385px calc(((100% - 1140px) / 2) + 46px) 0 calc(((100% - 1140px) / 2) + 631px);
 }
 
 .u-section-4 .u-text-6 {
+  font-size: 1.5rem;
   margin: 108px calc(((100% - 1140px) / 2) + 493px) 0 calc(((100% - 1140px) / 2));
 }
 
@@ -684,10 +672,12 @@
 }
 
 .u-section-4 .u-text-7 {
+  font-size: 1.5rem;
   margin: -270px calc(((100% - 1140px) / 2) + 46px) 0 calc(((100% - 1140px) / 2) + 446px);
 }
 
 .u-section-4 .u-text-8 {
+  font-size: 1.5rem;
   margin: 103px calc(((100% - 1140px) / 2) + 493px) 0 calc(((100% - 1140px) / 2));
 }
 
@@ -698,6 +688,7 @@
 }
 
 .u-section-4 .u-text-9 {
+  font-size: 1.875rem;
   margin: 151px calc(((100% - 1140px) / 2) + 46px) 60px calc(((100% - 1140px) / 2));
 }
 
@@ -723,7 +714,6 @@
     margin-top: 32px;
     margin-left: 65px;
     margin-right: 65px;
-    font-size: 1.25rem;
   }
 
   .u-section-4 .u-image-1 {
@@ -736,7 +726,6 @@
     margin-top: -287px;
     margin-right: calc(((100% - 940px) / 2));
     margin-left: calc(((100% - 940px) / 2) + 435px);
-    font-size: 1.25rem;
   }
 
   .u-section-4 .u-text-4 {
@@ -744,7 +733,6 @@
     margin-top: 55px;
     margin-right: 485px;
     margin-left: 50px;
-    font-size: 1.25rem;
   }
 
   .u-section-4 .u-image-2 {
@@ -765,7 +753,6 @@
     margin-top: -328px;
     margin-right: calc(((100% - 940px) / 2));
     margin-left: calc(((100% - 940px) / 2) + 492px);
-    font-size: 1.25rem;
   }
 
   .u-section-4 .u-text-6 {
@@ -814,7 +801,6 @@
     margin-top: 153px;
     margin-left: 50px;
     margin-right: 50px;
-    font-size: 1.875rem;
   }
 }
 
@@ -1070,17 +1056,17 @@
   .u-section-4 .u-text-6 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 233px;
+    margin-top: 243px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-4 {
-    margin-top: -405px;
+    margin-top: -415px;
   }
 
   .u-section-4 .u-image-5 {
-    margin-top: 232px;
+    margin-top: 252px;
   }
 
   .u-section-4 .u-text-7 {
@@ -1094,18 +1080,19 @@
   .u-section-4 .u-text-8 {
     font-size: 0.875rem;
     width: 340px;
+    margin-top: 281px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-6 {
-    margin-top: -481px;
+    margin-top: -491px;
   }
 
   .u-section-4 .u-text-9 {
     width: 340px;
     font-size: 1.25rem;
-    margin: 382px auto 60px;
+    margin: 352px auto 60px;
   }
 } .u-section-5 {
   background-image: none;
