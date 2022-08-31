@@ -1,10 +1,15 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/Canadata-June-2022-mainweb.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 100vh;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
 }.u-section-2 .u-sheet-1 {
   min-height: 50vw;
 }
@@ -546,19 +551,20 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1284px;
+    min-height: 1274px;
   }
 
   .u-section-3 .u-shape-1 {
     width: 241px;
     height: 374px;
-    margin-top: 601px;
-    margin-left: 80px;
+    margin-top: 798px;
+    margin-right: -763px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-group-1 {
     min-height: 459px;
-    margin-top: -956px;
+    margin-top: -1153px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -587,14 +593,14 @@
 
   .u-section-3 .u-image-1 {
     width: 227px;
-    margin-top: 441px;
+    margin-top: 356px;
   }
 
   .u-section-3 .u-image-2 {
-    width: 232px;
-    height: 354px;
-    margin-top: -593px;
-    margin-left: 108px;
+    width: 260px;
+    height: 278px;
+    margin-top: -506px;
+    margin-left: 80px;
   }
 } .u-section-4 {
   min-height: 3040px;
@@ -1002,7 +1008,7 @@
 
 @media (max-width: 575px) {
    .u-section-4 {
-    min-height: 3423px;
+    min-height: 3688px;
   }
 
   .u-section-4 .u-text-1 {
@@ -1015,17 +1021,18 @@
   .u-section-4 .u-text-2 {
     font-size: 0.875rem;
     width: 340px;
+    margin-top: 45px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-1 {
-    margin-top: 30px;
+    margin-top: 45px;
   }
 
   .u-section-4 .u-text-3 {
     font-size: 0.875rem;
-    margin-top: 30px;
+    margin-top: 45px;
     margin-right: calc(((100% - 340px) / 2) + 8px);
     margin-left: calc(((100% - 340px) / 2));
   }
@@ -1033,7 +1040,7 @@
   .u-section-4 .u-text-4 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 251px;
+    margin-top: 281px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1041,19 +1048,19 @@
   .u-section-4 .u-image-2 {
     width: 340px;
     height: 191px;
-    margin-top: -509px;
+    margin-top: -524px;
   }
 
   .u-section-4 .u-image-3 {
     width: 340px;
     height: 242px;
-    margin-top: 348px;
+    margin-top: 378px;
   }
 
   .u-section-4 .u-text-5 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 30px;
+    margin-top: 45px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1061,23 +1068,23 @@
   .u-section-4 .u-text-6 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 253px;
+    margin-top: 283px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-4 {
-    margin-top: -415px;
+    margin-top: -430px;
   }
 
   .u-section-4 .u-image-5 {
-    margin-top: 252px;
+    margin-top: 282px;
   }
 
   .u-section-4 .u-text-7 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 30px;
+    margin-top: 45px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1085,19 +1092,19 @@
   .u-section-4 .u-text-8 {
     font-size: 0.875rem;
     width: 340px;
-    margin-top: 281px;
+    margin-top: 311px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-4 .u-image-6 {
-    margin-top: -491px;
+    margin-top: -506px;
   }
 
   .u-section-4 .u-text-9 {
     width: 340px;
     font-size: 1.25rem;
-    margin: 397px auto 45px;
+    margin: 482px auto 45px;
   }
 } .u-section-5 {
   background-image: none;
