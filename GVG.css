@@ -367,9 +367,11 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 1.5rem;
-    width: 207px;
+    font-size: 1.25rem;
+    width: auto;
     margin-top: 275px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-2 .u-list-1 {
