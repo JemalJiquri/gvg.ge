@@ -10,18 +10,13 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3.75rem;
-  margin: 330px 106px 0;
-}
-
-.u-section-1 .u-text-2 {
-  width: 699px;
-  margin: 24px auto 0;
+  margin: 435px 106px 0;
 }
 
 .u-section-1 .u-icon-1 {
   height: 48px;
   width: 48px;
-  margin: 245px auto 60px;
+  margin: 290px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -46,10 +41,6 @@
    .u-section-1 {
     background-position: 98.71% 50%;
   }
-
-  .u-section-1 .u-text-2 {
-    width: 540px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -63,10 +54,6 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: 340px;
   }
 } .u-section-2 {
   background-image: url("images/beef__pork__and_poultry_by_deskridge_d5g5mmp-fullview.png");
